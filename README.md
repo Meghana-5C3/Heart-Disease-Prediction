@@ -86,10 +86,10 @@ Open your browser at http://127.0.0.1:5000/
 
 👨‍💻 Author
 
-SOMA KAVYA SREE
+Chedulla Meghana
 
 
-📧 Email: kavyasreesoma1@gmail.com
+📧 Email: chedullam@gmail.com
 
 
 ⭐ Contribute
